@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 6.1. This application is perfect for any plants lover as you will be spoiled with never ending selections! Enjoy 
 
+## Home Page
+![home](./public/home.jpeg) 
+
+## Plants Selection
+![home](./public/plants.jpeg)
 
 
 
